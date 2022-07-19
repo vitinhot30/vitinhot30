@@ -11,7 +11,7 @@ Sempre procurando dar meu melhor em tudo que faço.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhot30&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" aling="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,7 +23,7 @@ Sempre procurando dar meu melhor em tudo que faço.
 
   ##
   
-  <div> 
+  <div aling="center"> 
   <a href="https://instagram.com/vitinho.t30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/vitinhot30" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatovitinho30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
