@@ -1,7 +1,7 @@
 ### Olá me chamo Vítor 😁
-Gosto muito de aprender, pesquisar e estudar tudo que envolve TI
-Estou cursando ADS
-Sempre procurando dar meu melhor em tudo que faço
+Gosto muito de aprender, pesquisar e estudar tudo que envolve TI.
+Estou cursando ADS.
+Sempre procurando dar meu melhor em tudo que faço.
 
 
 
